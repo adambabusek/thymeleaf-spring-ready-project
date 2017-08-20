@@ -1,0 +1,1 @@
+This is empty java web application maven project prepared with thymeleaf + spring.
